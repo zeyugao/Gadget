@@ -1,3 +1,8 @@
+##Get Plane Equation
+-已知三点求平面方程
+
+-函数参数依次为三点的x,y,z
+
 ##GetHtmlAndTrim
 - 不写用法了，代码还没有完成，还在写自动写入SUMMARY.md和写入标题
 
