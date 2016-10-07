@@ -1,32 +1,12 @@
-#define Full_Cpp_Compiler
-
-#ifndef _DEBUG
-#pragma GCC optimize(2)
-#ifdef Full_Cpp_Compiler
-#include <codecvt>
-#endif
-#include <sstream>
 #include <iostream>
-#include <cstdio>
 #include <cstdlib>
 #include <memory>
-#include <vector>
 #include <string>
-#include <algorithm>
 #include <cmath>
-#include <queue>
-#include <cstring>
 #include <fstream>
 #include <cmath>
 #include <Windows.h>
-#include <iterator>
-#include <set>
 #include <process.h>
-#include <ctime>
-#include <utility>
-#include <cctype>
-#include <bitset>
-#endif // _DEBUG
 #include<wininet.h>
 #pragma comment(lib,"wininet.lib")
 bool GetChapterList();
