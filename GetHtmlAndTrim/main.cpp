@@ -1,12 +1,10 @@
 #include <iostream>
 #include <cstdlib>
-#include <memory>
 #include <string>
 #include <cmath>
 #include <fstream>
 #include <cmath>
 #include <Windows.h>
-#include <process.h>
 #include<wininet.h>
 #pragma comment(lib,"wininet.lib")
 bool GetChapterList();
