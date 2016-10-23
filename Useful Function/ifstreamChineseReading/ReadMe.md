@@ -1,0 +1,2 @@
+###ifstreamChineseReading
+- 读取GB2312和UTF-8的方式，这里提到了ifstream和ofstream的方法，同样可以对cin以及cout直接应用
