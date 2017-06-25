@@ -1,0 +1,25 @@
+{
+	"autoformat_on_save": true,
+	"options_default": {
+		"indent": "force-tab",
+		"style": "google",
+		"fill-empty-lines": true,
+		"indent-namespaces": true,
+
+		"attach-extern-c": true,
+		"attach-namespaces": true,
+		"attach-inlines": true,
+		"attach-classes": true,
+
+		"align-pointer": "name",
+		"align-reference": "name",
+		"break-closing-brackets": true,
+		"unpad-paren": true,
+		"add-brackets": true,
+		"keep-one-line-blocks": true,
+		"close-templates": true,
+		"break-after-logical": true,
+		"fill-empty-lines": true
+
+	}
+}

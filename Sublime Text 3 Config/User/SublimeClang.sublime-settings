@@ -1,0 +1,18 @@
+{
+    "show_output_panel": false,
+    "dont_prepend_clang_includes": true,
+    "debug_options": false,
+    "inhibit_sublime_completions": false,
+    "show_status":false,
+    "options":
+    [
+        "-ferror-limit=0",
+        "-Wno-deprecated-declarations",
+        "-isystem", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.10.25017\\include",
+        "-isystem", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Tools\\MSVC\\14.10.25017\\atlmfc\\include",
+        "-isystem", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.15063.0\\ucrt", 
+        "-isystem", "C:\\Program Files (x86)\\Microsoft Visual Studio\\2017\\Community\\VC\\Auxiliary\\VS\\include", 
+        "-isystem", "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.15063.0\\um",
+        "-Wall"
+    ]
+}
